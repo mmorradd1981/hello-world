@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Ce fichier doit être lu pour savoir comment installé l'application.
+Ce fichier doit être lu pour savoir comment installé cette application.
